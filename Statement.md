@@ -20,3 +20,7 @@ Continuous ball movement with bounce logic.
 Paddle and wall collision detection.
 Scoreboard that updates dynamically.
 Clean modular code: main.py, paddle.py, ball.py, scoreboard.py.
+
+<img width="1919" height="1018" alt="Code" src="https://github.com/user-attachments/assets/e6279a7b-21c8-4323-bcd8-eaed33bbcaf8" />
+
+<img width="1919" height="1022" alt="Game " src="https://github.com/user-attachments/assets/5d303abf-4c68-4176-8022-5b39f3829175" />
