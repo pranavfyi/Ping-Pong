@@ -6,19 +6,19 @@ This project serves as a practical demonstration of Object-Oriented Programming 
 # 🎮 Key Features & Technical Highlights
 This game goes beyond a basic clone, implementing several features to demonstrate robust system design and a polished user experience:
 
-# Object-Oriented Architecture (OOP): Built using separate, clean classes (Ball, Paddle, Scoreboard) for modularity and easy extension.
+ Object-Oriented Architecture (OOP): Built using separate, clean classes (Ball, Paddle, Scoreboard) for modularity and easy extension.
 
-# Dynamic Difficulty Scaling: Implements a custom speed curve where the ball accelerates after every score, ensuring the challenge increases continuously throughout the match.
+Dynamic Difficulty Scaling: Implements a custom speed curve where the ball accelerates after every score, ensuring the challenge increases continuously throughout the match.
 
-# Precision UX / Guided Bounce: Features a state-based logic that guides the ball toward the opponent for the first few hits of a rally, guaranteeing fair starting rallies and improving the initial player experience.
+ Precision UX / Guided Bounce: Features a state-based logic that guides the ball toward the opponent for the first few hits of a rally, guaranteeing fair starting rallies and improving the initial player experience.
 
-# Paddle Dash / Boost: Added a dedicated key control to allow players to temporarily boost their paddle speed for difficult, last-second saves.
+ Paddle Dash / Boost: Added a dedicated key control to allow players to temporarily boost their paddle speed for difficult, last-second saves.
 
-# Graceful Restart Loop: Implemented a bug-free "Press SPACE to Play/Restart" mechanism that clears the Game Over state, resets objects, and allows for infinite replayability.
+ Graceful Restart Loop: Implemented a bug-free "Press SPACE to Play/Restart" mechanism that clears the Game Over state, resets objects, and allows for infinite replayability.
 
-# Sound Integration: Uses the Pygame Mixer library for dedicated audio feedback (paddle hits, scoring, and a final win fanfare).
+Sound Integration: Uses the Pygame Mixer library for dedicated audio feedback (paddle hits, scoring, and a final win fanfare).
 
-# Arcade Aesthetics: Features a high-contrast Neon theme with dedicated goal lines and oversized scores.
+Arcade Aesthetics: Features a high-contrast Neon theme with dedicated goal lines and oversized scores.
 
 # 📁 Project Structure
 Pong-Game/
